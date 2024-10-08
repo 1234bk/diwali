@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIWALI WISHES</title>
+    <link rel="stylesheet" href="diwali.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+
+   
+    <section class="sec1">
+        
+        <img id="jhumar" src="design-5 1.png" alt="jhumar">
+        <pre>
+            Hi,<span id="receiver"></span>
+            You mean the world to me...
+            So this Diwali, 
+            I made something for you!
+        </pre>
+      
+        <div class="audi">
+            <img class="music" src="music.png" alt="">
+            <img class="soul" src="Soulful Music.png" alt="">
+            <img class="grp" src="Group 5.png" alt="">
+            <audio controls src="sitar-and-tanpura.mp3"></audio>
+        </div>
+        <div class="image">
+            <img src="deepak 1.png" alt="">
+            <img id="deep" src="deepak 1.png" alt="">
+        </div>
+    </section>
+
+    <section class="sec2"> 
+        <div class="line">
+            <div class="l" id="line1"></div>
+            <div class="c"  id="circle1"></div>
+            <div class="c" id="circle2"></div>
+            <div class="c" class="circle3"></div>
+            <div class="l" id="line2"></div>
+        </div>
+        <div id="image2">
+        <img  id="image3" src="lakshmi maa and ganesh ji 1.png" alt="">
+        <pre>Wishing You a Blessed and Prosperous Deepawali</pre>
+    </div>
+    <div id="li" class="line">
+        <div class="l" id="line1"></div>
+        <div class="c"  id="circle1"></div>
+        <div class="c" id="circle2"></div>
+        <div class="c" class="circle3"></div>
+        <div class="l" id="line2"></div>
+    </div>
+    </section>
+    <section class="sec3">
+      <div>
+        <img id="box" src="Group 12.png" alt="">
+        <img id="girl" src="little-girl 1.png" alt="">
+      </div>
+    </section>
+      
+
+    
+    <section class="sec4">
+        <div id="da" class="daba">
+            <div class="lakir" id="lakir1"></div>
+            <div class="gola"  id="gola1"></div>
+            <div class="gola" id="gola2"></div>
+            <div class="gola" class="gola3"></div>
+            <div class="lakir" id="lakir2"></div>
+        </div>
+        <div id="last">
+            <img src="Group 15 (1).jpg" alt="">
+            <h2>Happy Diwali and,</h2>
+            <h1><b>Thank You For Everything...</b></h1>
+            <h4>West Wishes From &hearts; <span id="sender"></span></h4>
+        </div>
+       
+    </section>
+
+    <script>
+        const receiverName = document.querySelector("#receiver");
+const senderName = document.querySelector("#sender");
+receiverName.innerText = new URLSearchParams(location.search).get("receiver");
+senderName.innerText = new URLSearchParams(location.search).get("sender") || 'BK';
+    </script>
+    
+</body>
+</html>
