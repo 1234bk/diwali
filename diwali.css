@@ -18,7 +18,7 @@ body {
 .sec1 img {
     width: 23%;
     background-color: transparent;
-    height: 30%;
+    height: 28%;
 }
 
 .sec1 pre {
@@ -28,21 +28,21 @@ body {
     margin-left: 14vh;
     margin-top: -5vh;
     max-width: 585px;
-    max-height: 228px;
+    height: 220px;
     font-size: 6vh;
 }
 
 .audi {
-    height: 1vh;
+    height: 5vh;
     color: black;
     display: flex;
     align-items: center;
     justify-content: start;
     background-color: #ffb75f;
-    max-width: 40vh;
+    max-width: 35vh;
     border-radius: 45px;
     margin-left: 32vh;
-    margin-top: 15vh;
+    margin-top: 5vh;
     padding-left: 2vh;
 }
 
