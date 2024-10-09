@@ -39,7 +39,7 @@ body {
     align-items: center;
     justify-content: start;
     background-color: #ffb75f;
-    width: 90vh;
+    width: 75vh;
     border-radius: 45px;
     margin-left: 32vh;
     margin-top: 0vh;
@@ -74,7 +74,7 @@ audio::-webkit-media-controls-panel {
 .audio {
     margin-left: 2vh;
     border: none;
-    width: 10vw; 
+    width: 15vw; 
     color: black;
     height: 2.2vh;
     padding-left: 2vh;
