@@ -76,8 +76,8 @@ audio::-webkit-media-controls-panel {
     border: none;
     width: 13vw; 
     color: black;
-    height: 1.8vh;
-     margin-left: 7vh;
+    height: 1.5vh;
+     margin-left: 10vh;
     padding-left: 0vh;
     transform: scale(1.5); 
 }
