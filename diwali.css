@@ -63,7 +63,7 @@ body {
     height: 3vh;
     width: 6vh;
     padding-left: 1vh;
-    padding-right: 1vh;
+    padding-right: 2vh;
 }
 
 audio::-webkit-media-controls-panel {
@@ -72,13 +72,13 @@ audio::-webkit-media-controls-panel {
 }
 
 .audio {
-    margin-left: 3vh;
+    margin-left: 2vh;
     border: none;
-    width: 8vw; 
+    width: 10vw; 
     color: black;
-    height: 2.1vh;
-    padding-left: 3vh;
-    transform: scale(1.5); 
+    height: 2.2vh;
+    padding-left: 2vh;
+    transform: scale(1.8); 
 }
 
 .image {
