@@ -33,29 +33,29 @@ body {
 }
 
 .audi {
-    height: 3vh;
+    height: 1vh;
     color: black;
     display: flex;
     align-items: center;
     justify-content: start;
     background-color: #ffb75f;
-    max-width: 60vh;
+    max-width: 40vh;
     border-radius: 45px;
     margin-left: 32vh;
-    margin-top: 22vh;
+    margin-top: 15vh;
     padding-left: 2vh;
 }
 
 .audi .music {
     width: 2.9vw;
-    height: 4vh;
+    height: 2vh;
     margin-right: 0.4vh;
 }
 
 .audi .soul {
     margin-right: 1.1vh;
     width: 15vh;
-    height: 2.6vh;
+    height: 2vh;
 }
 
 .audi .grp {
@@ -71,7 +71,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .audio {
-    margin-left: 10vh;
+    margin-left: 5vh;
     border: none;
     color: black;
     padding: 0%;
