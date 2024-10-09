@@ -117,8 +117,8 @@ audio::-webkit-media-controls-panel {
     }
 
     .audi {
-        margin-left: 4vh !important; /* Add important to ensure override */
-        width: 40vw !important;
+        margin-left: 5vh !important; /* Add important to ensure override */
+        width: 50vw !important;
     }
 
     .audi .grp {
@@ -130,15 +130,15 @@ audio::-webkit-media-controls-panel {
     }
 
     .audi .music {
-        width: 5vw;
-        height: 2vh;
+        width: 4vw;
+        height: 3.5vh;
         margin-right: 1.2vh;
         padding-left: 1vh;
         margin: -0.5vh;
     }
     .audio {
-        width: 40vw;
-        height: 4vh;
+        width: 30vw;
+        height: 3vh;
     }
 
     #jhumar {
