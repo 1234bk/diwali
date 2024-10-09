@@ -39,10 +39,10 @@ body {
     align-items: center;
     justify-content: start;
     background-color: #ffb75f;
-    width: 95vh;
+    width: 100vh;
     border-radius: 45px;
     margin-left: 32vh;
-    margin-top: 2vh;
+    margin-top: 0vh;
     padding-left: 2vh;
 }
 
@@ -71,11 +71,11 @@ audio::-webkit-media-controls-panel {
 }
 
 .audio {
-    margin-left: 4vh;
+    margin-left: 7vh;
     border: none;
-    width: 55vw 
+    width: 50vw; 
     color: black;
-    height: 0.8vh;
+    height: 1vh;
     padding: 0%;
     transform: scale(1.5); 
 }
