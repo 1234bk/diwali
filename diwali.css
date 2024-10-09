@@ -138,8 +138,8 @@ audio::-webkit-media-controls-panel {
     }
     .audio {
         width: 20vw;
-        height: 1.2vh;
-        margin-left:2vh;
+        height: 4vh;
+        margin-left:5vh;
     }
 
     #jhumar {
