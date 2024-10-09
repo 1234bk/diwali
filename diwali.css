@@ -69,7 +69,7 @@ audio::-webkit-media-controls-panel {
     color: black;
 }
 
-audio {
+.audio {
     margin-left: 10vh;
     border: none;
     color: black;
