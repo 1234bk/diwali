@@ -33,7 +33,7 @@ body {
 }
 
 .audi {
-    height: 4vh;
+    height: 5vh;
     color: black;
     display: flex;
     align-items: center;
@@ -75,8 +75,8 @@ audio::-webkit-media-controls-panel {
     border: none;
     width: 50vw; 
     color: black;
-    height: 1vh;
-    padding: 0%;
+    height: 2vh;
+    padding-left: 2vh;
     transform: scale(1.5); 
 }
 
